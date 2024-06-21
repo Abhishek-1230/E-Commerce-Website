@@ -1,0 +1,34 @@
+{
+  "maincategory": [
+    {
+      "id": "eade",
+      "name": "kids"
+    },
+    {
+      "id": "b6ad",
+      "name": "Female"
+    },
+    {
+      "id": "95f8",
+      "name": "Male"
+    },
+    {
+      "id": "ae25",
+      "name": "Others"
+    },
+    {
+      "id": "b929",
+      "name": "abcd"
+    }
+  ],
+  "subcategory": [],
+  "brand": [],
+  "product": [],
+  "testimonials": [],
+  "users": [],
+  "cart": [],
+  "wishlist": [],
+  "checkout": [],
+  "newsletter": [],
+  "contactus": []
+}
